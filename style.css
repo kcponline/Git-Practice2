@@ -1,0 +1,17 @@
+*/{
+	font-size:32px;
+	color:white;
+	font-family: sans-serif;
+}
+
+body{
+	background-color: black;
+}
+
+div{
+	display:inline-block;
+}
+
+seciton{
+	margin:0 auto;
+}
